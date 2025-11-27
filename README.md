@@ -94,4 +94,19 @@ Then open the URL that Streamlit prints (usually `http://localhost:8501`). The d
 - Filter by route, mode, and date range.
 - See overall KPIs (average delay, P90 delay, on-time rate) for the selection.
 - Inspect per-route KPIs and an hourly delay profile for a chosen route.
-# public-transport-delay-analysis
+
+## Requirements
+
+- **Python 3.8+**
+- pandas
+- SQLAlchemy
+- streamlit
+- pyarrow
+
+## Contributing
+
+This is a Politecnico di Torino group project. For contributions or questions, please open an issue or contact the project maintainers.
+
+## License
+
+This project is part of a Politecnico di Torino assignment.
